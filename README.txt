@@ -1,0 +1,1 @@
+Link to CSCI 698 Teaching Video + Writeup: https://rajrup.github.io/csci698-teaching/
